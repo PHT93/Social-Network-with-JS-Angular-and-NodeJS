@@ -1,0 +1,888 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"lo",
+				"loading"
+			],
+			[
+				"Use",
+				"UserGuard"
+			],
+			[
+				"me",
+				"message"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"messa",
+				"messages"
+			],
+			[
+				"M",
+				"MessagesService"
+			],
+			[
+				"form",
+				"formAdd"
+			],
+			[
+				"get",
+				"getMyFollows"
+			],
+			[
+				"Me",
+				"Message"
+			],
+			[
+				"Fol",
+				"FollowService"
+			],
+			[
+				"pr",
+				"params"
+			],
+			[
+				"Http",
+				"HttpHeaders"
+			],
+			[
+				"Htt",
+				"HttpClient"
+			],
+			[
+				"Messa",
+				"MessagesRoutingModule"
+			],
+			[
+				"follo",
+				"followThem"
+			],
+			[
+				"url",
+				"urlFollowing"
+			],
+			[
+				"file",
+				"filesToUpload"
+			],
+			[
+				"error",
+				"error"
+			],
+			[
+				"pull",
+				"pull-right"
+			],
+			[
+				"show",
+				"showImage"
+			],
+			[
+				"sho",
+				"showImage"
+			],
+			[
+				"publi",
+				"publication"
+			],
+			[
+				"num",
+				"numberOfPublications"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"border",
+				"border-left\tproperty"
+			],
+			[
+				"followUser",
+				"followUserOver"
+			],
+			[
+				"foll",
+				"follow"
+			],
+			[
+				"Foll",
+				"FollowingMe"
+			],
+			[
+				"follow",
+				"following"
+			],
+			[
+				"mrgin",
+				"margin-right\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"stta",
+				"status"
+			],
+			[
+				"arr",
+				"arrayB"
+			],
+			[
+				"arry",
+				"arrayA"
+			],
+			[
+				"publications",
+				"publicationsIFollow"
+			],
+			[
+				"Publi",
+				"PublicationsIFollow"
+			],
+			[
+				"_rou",
+				"_router"
+			],
+			[
+				"pa",
+				"pages"
+			],
+			[
+				"e",
+				"errorMessage"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"Pb",
+				"PublicationStored"
+			],
+			[
+				"publ",
+				"PublicationStored"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"Pu",
+				"PublicationService"
+			],
+			[
+				"_",
+				"_userService"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"padding",
+				"padding-left\tproperty"
+			],
+			[
+				"pu",
+				"pull-left"
+			],
+			[
+				"paddin",
+				"padding\tproperty"
+			],
+			[
+				"id",
+				"identity"
+			],
+			[
+				"fo",
+				"FollowService"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"mari",
+				"margin-top\tproperty"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"H",
+				"HttpHeaders"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"margi",
+				"margin-top\tproperty"
+			],
+			[
+				"string",
+				"stringify"
+			],
+			[
+				"files",
+				"filesToUpload"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"err",
+				"errorMessage"
+			],
+			[
+				"R",
+				"ActivatedRoute"
+			],
+			[
+				"g",
+				"glyphicon-home"
+			],
+			[
+				"erro",
+				"errorMessage"
+			],
+			[
+				"us",
+				"UserService"
+			],
+			[
+				"regist",
+				"registerForm"
+			],
+			[
+				"regis",
+				"registerForm"
+			],
+			[
+				"st",
+				"status"
+			],
+			[
+				"User",
+				"UserService"
+			],
+			[
+				"U",
+				"UserService"
+			],
+			[
+				"Vi",
+				"VideojuegosComponent"
+			],
+			[
+				"video",
+				"videojuegos"
+			],
+			[
+				"mejor",
+				"mejorJuegoRetro"
+			],
+			[
+				"mess",
+				"messageController"
+			],
+			[
+				"message",
+				"messageRouter"
+			],
+			[
+				"mes",
+				"messageController"
+			],
+			[
+				"count",
+				"countDocuments"
+			],
+			[
+				"md",
+				"md_auth"
+			],
+			[
+				"publication",
+				"publicationId"
+			],
+			[
+				"find",
+				"findById"
+			],
+			[
+				"publica",
+				"publications"
+			],
+			[
+				"folo",
+				"follows_clean"
+			],
+			[
+				"han",
+				"handleError"
+			],
+			[
+				"fol",
+				"followController"
+			],
+			[
+				"m",
+				"md_auth"
+			],
+			[
+				"path",
+				"pathFile"
+			],
+			[
+				"imag",
+				"imageFile"
+			],
+			[
+				"fil",
+				"fileUpdated"
+			],
+			[
+				"para",
+				"paramsToUpdate"
+			],
+			[
+				"aut",
+				"authorization"
+			],
+			[
+				"p",
+				"payload"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"to",
+				"toLoweCase"
+			],
+			[
+				"use",
+				"userController"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"div",
+				"div_msgs"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"an",
+				"anchuraToSlider"
+			],
+			[
+				"uplo",
+				"UploadService"
+			],
+			[
+				"con",
+				"Content-Type"
+			],
+			[
+				"_r",
+				"_router"
+			],
+			[
+				"tex",
+				"text-decoration-line\tproperty"
+			],
+			[
+				"He",
+				"HttpHeaders"
+			],
+			[
+				"proj",
+				"projectController"
+			],
+			[
+				"project",
+				"projectsSent"
+			],
+			[
+				"pro",
+				"ProjectService"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"Pro",
+				"ProjectService"
+			],
+			[
+				"Form",
+				"FormsModule"
+			],
+			[
+				"paddi",
+				"padding-bottom\tproperty"
+			],
+			[
+				"app",
+				"appRoutes"
+			],
+			[
+				"Route",
+				"RouterModule"
+			],
+			[
+				"contac",
+				"ContactComponent"
+			],
+			[
+				"proje",
+				"projectId"
+			],
+			[
+				"mul",
+				"multiparMiddleware"
+			],
+			[
+				"Project",
+				"projectController"
+			],
+			[
+				"usu",
+				"user_guardado"
+			],
+			[
+				"new",
+				"new_user"
+			],
+			[
+				"Cont",
+				"ContactoUsuario"
+			],
+			[
+				"Ca",
+				"CalculadoraPipe"
+			],
+			[
+				"val",
+				"value_two"
+			],
+			[
+				"Pipe",
+				"PipeTransform"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 173.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"emmet",
+				"Emmet: Balance (inward)"
+			],
+			[
+				"Control: Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 565.0
+	},
+	"console":
+	{
+		"height": 719.0,
+		"history":
+		[
+			"import urllib2,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')",
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/Apuntes Desarrollar una red social con Angular y Node JS Angular.txt",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/controllers/user.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/publications/publications.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/timeline/timeline.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/timeline/timeline.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/publications/publications.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/profile/profile.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/profile/profile.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JQuery/32 - Animaciones y Efectos/07 - animaciones.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JQuery/33 - Plugins y Widgets/index.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JQuery/33 - Plugins y Widgets/08 - plugins.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JQuery/27 - Eventos En JQuery/02 - eventosJquery.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JQuery/25 - Primeros pasos con JQuery/index.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/17 - BOM - Browser Object Model/29 - bom.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/16 - DOM - Document Object Model/28 - dom.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/13 - Arrays y Arreglos/25 - arrays.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/13 - Arrays y Arreglos/26 - multidimensionales.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/12 - Funciones y Métodos/24 - plantillas.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/12 - Funciones y Métodos/23 - procesarTexto.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/12 - Funciones y Métodos/22 - ambitos.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/12 - Funciones y Métodos/21 - anonimas.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/12 - Funciones y Métodos/20 - restSpread.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/12 - Funciones y Métodos/19 - funciones.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/11 - Ejercicios de Programación - Bloque 1/11 - ejercicio1.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/10 - Alertas y Ventanas/10 - ventanas.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/09 - Estructuras de control - Iteradores y bucles/09 - whileDoWhile.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/09 - Estructuras de control - Iteradores y bucles/08 - for.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/08 - Estructuras de control - Condicionales/07 - condicionalesOperadoresLogicos.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/08 - Estructuras de control - Condicionales/06 - condicinales.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/08 - Estructuras de control - Condicionales/06 - index.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/07 - Tipos de Datos y Operadores/05 - tiposDatos.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/06. Variables/03 - constantes.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/06. Variables/02 - letVar.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/06. Variables/01 - index.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/JavaScript/06. Variables/01 - code.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/services/user.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/home/home.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/home/home.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/login/login.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/app.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/app.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/app.routing.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/services/user.guard.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/app.module.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/messages-routing.module.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/messages.module.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/sended/sended.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/sended/sended.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/controllers/message.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/received/received.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/received/received.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/sidebar/sidebar.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/services/messages.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/main/main.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/following/following.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/assets/styles.css",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/following/following.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/add/add.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/package.json",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/angular.json",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/add/add.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/models/message.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/register/register.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/services/follow.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/controllers/follow.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/models/message.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/routes/follow.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/routes/message.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/followed/followed.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/main/main.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/messages/components/main.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/followed/followed.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/controllers/publication.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/services/upload.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/users/users.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/users/users.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/sidebar/sidebar.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/services/publication.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/routes/publication.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/user-edit/user-edit.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/models/publication.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/middlewares/authenticated.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/routes/user.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/timeline/timeline.component.spec.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/models/publication.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/Sintaxis Básica de Angular.txt",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/register/register.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/user-edit/user-edit.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/models/follow.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/services/global.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/uploads/users/vxgJijI_T9vMwZWhGGIo1keu.jpg",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/uploads/users/Ti5_RgYMdqI_EcET4AZu-xPU.jpg",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/components/create/create.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/components/edit/edit.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/services/upload.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/node_modules/@angular/common/src/pipes/keyvalue_pipe.d.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/models/user.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/models/user.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/app/components/login/login.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/services/jwt.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/app.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/components/create/create.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/services/global.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/services/project.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/src/app/app.module.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/curso-mean-social.sublime-project",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/models/follow.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/proyecto-angular/angular.json",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/styles.css",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/client/src/index.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/src/app/videojuegos/videojuegos.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/src/app/videojuegos/videojuegos.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/src/app/app.component.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/src/app/app.component.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/src/app/app.module.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/package.json",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/angular.json",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/instalacion-angular/src/index.html",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/app.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/Apuntes Desarrollar una red social con Angular y Node JS.txt",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/index.js",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/uploads/publications/EqhylLjrA-J-edRWXWz3_fwi.jpg",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/uploads/users/6bTixVuksoRHrBncplfqpKOS.jpg",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Desarrollar una red social con JavaScript, Angular y Node JS/api/package.json",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/aprendiendo-angular/src/app/services/zapatilla.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/aprendiendo-angular/src/app/services/peticiones.service.ts",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/aprendiendo-angular/angular.json",
+		"/C/Users/DARIO/Desktop/Cursos Programación/Diseño y Desarrollo Web/Máster en JavaScript/aprendiendo-angular/src/app/app.component.css"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"followed",
+			"thisUsersFollowsMe",
+			"following",
+			"refresh",
+			"item-user",
+			"people",
+			"navigate",
+			"input",
+			"req.sub.",
+			"publicationsifollow",
+			"thisUserFollowsMe",
+			"followingMe",
+			"console",
+			"getCountFollow",
+			"avatar",
+			"aeabab",
+			"url",
+			"route",
+			"getCountFollows",
+			"route",
+			"router",
+			"finOne",
+			"follow",
+			"boot",
+			"countDocume",
+			"countDocum",
+			"getCountfollows",
+			"getImage",
+			"removeFil",
+			"remove",
+			"delete",
+			"paginate",
+			"path",
+			"import",
+			"export",
+			"getImageFile",
+			"autor",
+			"a ",
+			"content",
+			"();\n",
+			"mongoClient",
+			"of",
+			"block",
+			"restoFrutas",
+			"nuevosDatos",
+			"botonVolver",
+			"styleImg",
+			"table",
+			" -",
+			"border",
+			"table",
+			"badge",
+			"responsive",
+			"rounded",
+			"align",
+			"text-align",
+			"img",
+			"end",
+			"pill",
+			"card-link",
+			"Fluid"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"user",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 168.0
+	},
+	"pinned_build_system": "",
+	"project": "curso-mean-social.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
