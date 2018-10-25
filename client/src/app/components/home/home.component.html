@@ -1,0 +1,14 @@
+<div class="col-lg-8 col-lg-offset-2">
+
+	<div class="jumbotron">
+		
+		<h1>{{ title }}</h1>
+		<p>Disfruta de las publicaciones de tus amigos y comparte tu vida :)</p>
+		<p>
+			<a [routerLink]="['/timeline']" class="btn btn-primary" role="button">Timeline</a>
+			<a [routerLink]="['/profile/', identity._id]" class="btn btn-success" role="button">Mi Perfil</a>
+			<a [routerLink]="['/users']" class="btn btn-default" role="button">Gente</a>
+		</p>
+		
+	</div>
+</div>

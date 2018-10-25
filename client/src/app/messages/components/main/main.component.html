@@ -1,0 +1,25 @@
+<div class="col-lg-4">
+	<h3>
+		{{ title }}
+		<div class="sidebar-admin">
+			<ul class="nav nav-pills nav-stacked ">
+				<li [routerLinkActive]="['active']" style="margin-top: 10px">
+					<a [routerLink]="['received']">Mensajes Recibidos</a>
+				</li>
+				<li [routerLinkActive]="['active']">
+					<a [routerLink]="['sended']">Mensajes Enviados</a>
+				</li>
+				<li [routerLinkActive]="['active']">
+					<a [routerLink]="['send']">Enviar mensajes</a>
+				</li>
+				<li>
+					<a [routerLink]="['/home']">Información</a>
+				</li>
+			</ul>
+		</div>
+	</h3>
+</div>
+
+<div class="col-lg-8">
+	<router-outlet></router-outlet>
+</div>
